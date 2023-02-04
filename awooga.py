@@ -50,4 +50,4 @@ async def on_message(message):
 
 
 
-client.run('MTA3MTI4MjYwNDI4MTY5NjMwNw.GkX2Nv.bgZxVBgGk3LLzmJd8NFAIOC-As3f7QpVQcM0_0')
+client.run('secret :)')
